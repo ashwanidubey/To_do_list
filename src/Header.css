@@ -87,7 +87,10 @@
     margin: 2px;
     justify-content: space-between;
 }
-
+#editedTask
+{
+    width: 250px;
+}
 #edited_card_button
 {
    display: flex;
