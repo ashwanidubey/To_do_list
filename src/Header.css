@@ -103,14 +103,15 @@
 {
     
     height: 35px;
-    font-size: large;
+    font-size: medium;
+    width: 120px;
 }
 
 .ecb
 {
     
     height: 35px;
-    font-size: large;
+    font-size: medium;
 }
 .ecb:hover
 {
@@ -118,7 +119,7 @@
 }
 #editedTask
 {
-    font-size: large;
+    font-size: medium;
 }
 #buttonclick:hover
 {
