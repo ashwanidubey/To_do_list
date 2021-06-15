@@ -1,0 +1,127 @@
+
+#myheader
+{  
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    background-color: aqua;
+}
+#title
+{
+   
+   margin-right: 60px;
+    width:fit-content;
+}
+#mybutton
+{
+   margin-left: 60px;
+   
+    width:fit-content;
+}
+#mybutton1:hover
+{
+   background-color: yellowgreen;
+}
+ 
+#editedDate , #editedTask
+{
+    color: rgb(245, 11, 11);
+}
+
+.button
+{
+   height: 35px; 
+   width: 120px;
+   font-size:large;
+}
+#mycard
+{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+}
+#mycard_content
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.mycard_button{
+    margin: 2px;
+    width: 140px;
+    height: 35px;
+    font-size: medium;
+}
+.mycard_button:hover{
+    background-color: yellowgreen;
+}
+
+#myform
+{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+#date_button_combo
+{
+    width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items:flex-end;
+  
+}
+#mytask
+{
+    font-size: large;
+}
+#edited_card
+{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    margin: 2px;
+}
+
+#edited_card_button
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: flex-end;
+   width: 50%;
+}
+#editedDate
+{
+    width:70%;
+    height: 35px;
+    font-size: large;
+}
+#edited_card_button2
+{
+    width: 70%;
+   
+}
+.ecb
+{
+    width: 50%;
+    height: 35px;
+    font-size: large;
+}
+.ecb:hover
+{
+    background-color: yellowgreen;
+}
+#editedTask
+{
+    font-size: large;
+}
+#buttonclick:hover
+{
+    background-color: yellowgreen;
+}
+
